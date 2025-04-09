@@ -1,7 +1,7 @@
 # oop-sample
 
 ## Summary
-Sample console application to demonstrate the use of OOP principles in C#.
+Sample console application to demonstrate the use of OOP principles in C#. Practice this.
 
 ## Features
 - Object-Oriented Programming concepts like Encapsulation, Overload.
